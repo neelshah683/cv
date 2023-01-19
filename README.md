@@ -1,2 +1,2 @@
 # Sample Page
-https://neel-shah-683.github.io/cv/
+https://neelshah683.github.io/cv/
